@@ -1,0 +1,39 @@
+Digital Strategy Working Group Report
+Written by Working Group Chair Erin Schreiner
+August 21, 2019
+
+Working Group Members:
+Erin Schreiner (Chair)
+James Ascher
+Jeremy Boggs
+David Pearson
+Shannon Supple
+
+The BSA Digital Strategy Working Group held its first formal meeting on 25 July 2019, with three members in attendance engaging in a focused discussion around the working group charge and stated objectives. (Meeting Minutes). The main outcomes of this meeting were:
+Following a suggestion from James Ascher, working group members will build prototypes of various digital tools, and engage with BSA members and professional colleagues to test-use, evaluate, and refine these digital offerings. More on this below.
+Shannon Supple will conduct a general review of the existing BSA website. Her review will focus on content related changes that could be made in the near term, and then larger structural changes to be considered for a larger redesign.
+Erin Schreiner will post a call for additional working group members/prototype-testers in the BSA’s September newsletter.
+
+On Wednesday July 31, Erin Schreiner met with David Pearson following a casual, impromptu chat of the BSA’s and BibSoc’s digital publishing challenges while at Rare Book School. The discussion on July 31 defined the challenges that both societies face, proposed opportunities for future collaboration (perhaps also with the Bibliographical Society of UVA), and described the most pressing issues to be addressed and resolved in order to continue our societies’ traditions of publishing some of the discipline’s standard reference works in print. (Report of that meeting.)
+
+On Thursday August 1, Erin Schreiner, Jeremy Boggs,  and James Asher met and discussed first steps for building prototypes that would allow us to model the type of digital resources that David Pearson describes. The main outcomes of this meeting were:
+The BSA digital interface needs to offer two things in a more sophisticated iteration of BibSite:
+Raw data that competent programmers/DH-ers can freely use to expand their research, and offer value-added analyses or visualizations of available data. EG: Libra Data, UVA’s Data Repository: https://www.library.virginia.edu/libra/datasets/ or Harvard’s Dataverse: https://dataverse.harvard.edu/
+An interface for users without computer programming skills, who simply wish to consult resources as databases or general references.
+Commitment to search for individuals to share data that the BSA can informally use the data to model the value of both offerings – raw data for scholarly analysis/DH outcomes, and a discovery interface for casual users. 
+
+Since that conversation, James Ascher has set up a GitHub repository in which working group members and others can hold discussions, gather data, build, test, and refine prototypes. That repositry is located at:  https://github.com/cacology/BSA-prototypes/. If this works as a model, we will build a BSA dedicated GitHub repository attached to the BSA Google Account. If it does not, we will find a way to archive work done here for our records.
+
+James Ascher also started a WhatsApp group chat for bibliographically inclined people, as a way to explore digital ways to build bibliographical community. The group chat has so far been fairly active, with several members most of whom are affiliated with the RBS Descriptive Bibliography course. We will evaluate that prototype and its feasibility.
+
+As documented in https://github.com/cacology/BSA-prototypes/issues/3, Erin and James have been working with two independent scholars who may be willing to share their data. Jeremy Boggs also suggested scraping data from documents already existing on BibSite to create test data sets.
+
+Further discussions at this meeting addressed formal opportunities for developing prototypes and working toward a formal proposal for a digital publishing platform which addresses the concerns raised by David Pearson. Some thoughts were:
+Fellowships funded by the BSA or donors for students at the UVA Scholar’s Lab to work on prototypes over a year-long period.
+Exploration of collaborative opportunities between the BSA, BibSoc, and BSUVA and perhaps also the Maryland Institute for Technology in the Humanities, with which Matthew Kirschenbaum is affiliated.
+Could we host a prototype-athon at a convenient location or otherwise connect people and facilitate dialogue between partes working on the project remotely?
+
+
+At the moment, the working group is functioning relatively well. Scheduling regular meetings for the group has been very difficult, so for the time being I am experimenting with working with individual members on the projects they are pursuing and documenting the group’s work in this written report, which I will share via email, in Google Drive, and in our GitHub repository.
+
+I will write and submit another report to the group before the November Council meeting.
